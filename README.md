@@ -15,7 +15,6 @@ This project implements an image classification model using **Support Vector Mac
 
 ## 🗂️ Dataset Structure
 
-Place your dataset in the following structure under `task3/`:
 
 task3/
 ├── PetImages/
@@ -89,6 +88,3 @@ SVM Image Classification Cats vs Dogs Computer Vision OpenCV Python Machine Lear
 
 
 
-- A `requirements.txt`
-- A Colab-compatible version
-- Extended model comparison (e.g., SVM vs CNN)
